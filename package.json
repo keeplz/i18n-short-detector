@@ -1,0 +1,20 @@
+{
+  "name": "i18n-short-detector",
+  "version": "1.0.0",
+  "description": "a detector for i18next-browser-languagedetector that only save country code",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/keeplz/i18n-short-detector.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/keeplz/i18n-short-detector/issues"
+  },
+  "homepage": "https://github.com/keeplz/i18n-short-detector#readme"
+}
